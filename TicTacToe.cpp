@@ -69,7 +69,7 @@ int main(){
             }
         }
         else{
-            cout<<"Gadha oikhane already diyechis ekbaar. Onno jaigai de!"<<endl;
+            cout<<"Oops!! Invalid location, Try 1 to 3!"<<endl;
         }
     }
     print(board);
